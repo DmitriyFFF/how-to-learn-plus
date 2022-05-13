@@ -1,9 +1,6 @@
 .cards__item {
-  display: flex;
   width: 240px;
-  flex-direction: column;
   margin: 0 100px 0 0;
-  box-sizing: content-box;
 }
 
 .cards__item:nth-last-of-type(3n) {

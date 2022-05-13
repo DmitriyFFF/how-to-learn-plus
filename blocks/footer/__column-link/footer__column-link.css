@@ -5,13 +5,13 @@
   margin: 0 0 10px 0;
   text-decoration: none;
   color: #fff;
-  transition: opacity .3s ease;
+  transition: opacity .5s ease-out;
 }
 
 .footer__column-link:last-of-type {
   margin-bottom: 0;
 }
 
-.footer__column-link:hover {/*????*/
+.footer__column-link:hover {
   opacity: .5;
 }
